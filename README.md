@@ -25,4 +25,5 @@ Here are the original data for the project:
 ## All the files included in the repo
 * **README.md**: This is this file. It describes the assignment and the files that are included in the repo
 * **CodeBook.md**: This is a code book that describes the variables, the data, and the transformations I made to get and clean up the data
+* **run_analysis.R**: This is the scripts I created to collect, prepare, and transform the data to create the final tidied file below. This script is composed of 2 parts: the Introduction for the data collection and preparation, and the Data transformation and creation (5 steps) as requested for the assignment
 * **IndependentTidyData.txt**: This is the final file which includes the final tidied data.
