@@ -14,7 +14,8 @@ You should also include a README.md (i.e. this file) in the repo with your scrip
 ## Dataset used
 One of the most exciting areas in all of data science right now is wearable computing.
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. 
-The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
+The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
+
 A full description is available at the site where the data was obtained:
 [Description of the experience and data collected](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
